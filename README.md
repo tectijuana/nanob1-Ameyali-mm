@@ -1,28 +1,47 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# UNIDAD 1, INTRODUCCIÓN
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+## Definición de lenguaje
+El lenguaje es definido como 
 
-Plantilla generica de todo repositorio.
+> Sistema de signos que se utiliza para poder comunicarse, ya sea
+> oralmente o escrito.
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+El lenguaje de programación se puede definir como 
 
-----
-
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
-
-----
-
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
-
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
+> Idioma artificial para expresar instrucciones que pueden ser llevadas
+> a cabo por las computadoras. Está formado de un conjunto de símbolos y
+> y reglas sintácticas y semánticas de definen su estructura y
+> significado de sus elementos y expresiones.
 
 
+## Definición de algoritmo
+El algoritmo se puede definir como:
+
+> Secuencia de operaciones detalladas, lógicos y no ambiguas, que al ejecutarse
+> pasa a paso, conducen a la solución de un problema, es decir, es el
+> conjunto de reglas para resolver un cierto tipo de problema.
+
+
+## Algoritmos cotidianos
+Los algoritmos cotidianos son:
+
+> Todos aquellos algoritmos que nos ayudan a resolver los problemas
+> diarios y que hacemos sin darnos cuenta que estamos siguiendo una
+> metodología para resolverlo.
+
+Un ejemplo es:
+![![Resultado de imagen para algoritmo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LampFlowchart-es.svg/220px-LampFlowchart-es.svg.png)
+
+
+## Definición de lenguajes algorítmicos
+El lenguaje algoritmico, se puede definir como:
+
+>  Una serie de símbolos y reglas que se utilizan para describir de
+> manera explícita un proceso
+
+Teniendo en cuenta la forma en que describen el proceso, existen dos tipos de lenguajes algorítmicos:
+
+ - **Graficos:** Es la representación gráfica de las operaciones que realiza un algoritmo (diagrama de flujo).
+ ![Resultado de imagen para algoritmo grafico](https://www.researchgate.net/profile/Elena_Cabrera_Revuelta/publication/319939606/figure/fig54/AS:649775695273984@1531930006133/Figura-417-Grafico-de-Flujo-de-un-Algoritmo-Genetico-Elaboracion-Propia-Fuente.png)
+ - **No Gráficos:** Representa en forma descriptiva las operaciones que debe realizar un algoritmo (pseudocódigo).
+![Resultado de imagen para algoritmo no grafico](http://imagenes.mailxmail.com/cursos/imagenes/0/3/representacion-grafica-de-algoritmos_6330_8_5.jpg)
